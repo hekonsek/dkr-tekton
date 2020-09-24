@@ -1,6 +1,6 @@
-# DKR command: Tekton
+# DKR command: tkn (Tekton CLI)
 
-This is [Tekton](https://cloud.google.com/tekton) command for 
+This is [Tekton CLI](https://github.com/tektoncd/cli) command for 
 [dkr](https://github.com/hekonsek/dkr).
 
 ## Parent image
@@ -9,7 +9,7 @@ This is [Tekton](https://cloud.google.com/tekton) command for
 
 ## Packages
 
-- `tekton` cli
+- `tekton` CLI (`tkn`)
 
 ## License
 
